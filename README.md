@@ -14,6 +14,7 @@ Open: Price of the stock when the market opens\
 High: Highest price reached in the day\
 Low: Lowest price reached in the day\
 Close: Price of the stock when the market closes\
+Adj Close: The closing price after adjustments for all applicable splits and dividend distributions\
 Volume: Number of shares traded in a day
 
 Acknowledgement\
