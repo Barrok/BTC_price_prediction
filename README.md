@@ -1,6 +1,5 @@
-# Price prediction of BTC
+# About Dataset
 
-About Dataset
 Context\
 The Standard and Poor's 500 is a stock market index tracking the performance of 500 large companies listed on stock exchanges in the United States. It is one of the most commonly followed equity indices. As of December 31, 2020, more than $5.4 trillion was invested in assets tied to the performance of the index.
 
@@ -10,11 +9,11 @@ This dataset can be used to create some interesting visualizations and identify 
 Content\
 The naming convention of the files are in the form ticker.csv. The individual files contain the historical stock price data of that company. All the files have the following columns:
 
-Date: The date is in the format yyyy-mm-dd
-Open: Price of the stock when the market opens
-High: Highest price reached in the day
-Low: Lowest price reached in the day
-Close: Price of the stock when the market closes
+Date: The date is in the format yyyy-mm-dd\
+Open: Price of the stock when the market opens\
+High: Highest price reached in the day\
+Low: Lowest price reached in the day\
+Close: Price of the stock when the market closes\
 Volume: Number of shares traded in a day
 
 Acknowledgement\
