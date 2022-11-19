@@ -7,7 +7,7 @@ Inspiration\
 This dataset can be used to create some interesting visualizations and identify how stock prices of a particular company vary over time. Working with stock data is one of the best ways to get acquainted with timeseries forecasting. Can you create a model to stay one step ahead of the market and make statistically informed trading decisions?
 
 Content\
-The naming convention of the files are in the form ticker.csv. The individual files contain the historical stock price data of that company. All the files have the following columns:
+The naming convention of the files are in the form BTC-USD.csv. The individual file contains the historical stock price data of that company. The file has the following columns:
 
 Date: The date is in the format yyyy-mm-dd\
 Open: Price of the stock when the market opens\
